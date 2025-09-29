@@ -46,14 +46,9 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
+      "name": "Licenciatura em Física pelo Instituto Federal de Ciências e Tecnologia do Para - IFPa e Formando do Curso de Análise e Desenvolvimento de Sistemas",
+      "url": "www.linkedin.com/in/prof-marcio-caldeira",
+      "Linkedin": true
     }
   ],
   "professionalExperience": [
